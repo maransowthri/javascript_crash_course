@@ -10,6 +10,7 @@ logs
 **/*.back.*
 
 node_modules
+images
 bower_components
 
 *.sublime*
